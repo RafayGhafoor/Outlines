@@ -1,6 +1,6 @@
 # Digital Logic Design:
 
-## Outline
+## Outline:
 
 | Index | Course  |
 |--|--|
@@ -8,7 +8,7 @@
 |02 | Logic  Gates|
 |03 | Boolean  Algebra|
 |04 | Combination  logic  circuits  and designs|
-|05 | Simplification  Methods  (K-Map0|
+|05 | Simplification  Methods  (K-Maps)|
 |06 | Quinn Mc-Cluskeymethod)|
 |07 | Flip  Flops  and Latches|
 |08 | Asynchronous and Synchronous circuits|
@@ -40,7 +40,7 @@
 - The making of Pakistan, Aziz. 1976
 - A Short History of Pakistan, I. H. Qureshi, ed., Karachi, 1988
 
-# Object Oriented Programming (OOP)
+# Object Oriented Programming (OOP):
 
 ## Outline:
 | Index | Course  |
@@ -81,6 +81,51 @@
 - Java: How Program, 9th Edition Paul Deitel.
 - Beginning Java 7th Edition Ivor Horton.
 - Introduction Object Oriented Programming With Java, 5th Edition Thomas.
+
+# Communication and Presentation Skills:
+
+## Outline:
+
+| Index | Course  |
+|--|--|
+|01 | Principles of Writing Good English|
+|02 | Understanding the Composition Process: Writing Clearly; Words|
+|03 | Sentence and paragraphs; comprehension and expression; Use Grammar and Punctuation. Process Writing|
+|04 | Observing|
+|05 | Audience Collecting|
+|06 | Composing|
+|07 | Drafting and Revising|
+|08 | Persuasive Writing|
+|09 | Reading Skills|
+|10 | Listening Skills and Comprehension|
+|11 | Skills for Taking Notes in class|
+|12 | Skills for Exams; Business Communications; Planning messages|
+|13 | Writing Concise but with Impact; Letter Formats|
+|14 | Mechanics Business|
+|15 | Letter Writing|
+|16 | Letters|
+|17 | Memo and Applications|
+|18 | Summaries|
+|19 | Proposals|
+|20 | Writing Resumes|
+|21 | Styles and Formats|
+|22 | Oral Communications|
+|23 | Verbal and Non-verbal Communication|
+|24 | Conducting Meetings|
+|25 | Small Group Communication|
+|26 | Taking Minutes Presentation Skills;Presentation Strategies|
+|27 | Defining the Objective|
+|28 | Scope and Audience of the Presentation|
+|29 | Material Gathering Material Organization Strategies|
+|30 | Time Management|
+|31 | Opening and Concluding|
+|32 | Use of Audio-visual aids|
+|33 | Delivery and presentation.|
+
+## Resources:
+
+- Practical Business English, Collen Vawdrey, 1993, Isbn 0256192740.
+- Effective Communication Skills: The Foundations For Change, John Nielsen, 2008, Isbn 1453506748.
 
 
 
