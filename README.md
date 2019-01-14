@@ -127,5 +127,40 @@
 - Practical Business English, Collen Vawdrey, 1993, Isbn 0256192740.
 - Effective Communication Skills: The Foundations For Change, John Nielsen, 2008, Isbn 1453506748.
 
+# Differential Equations:
+
+## Outline:
+
+| Index | Course  |
+|--|--|
+|01 | Ordinary differential equations the first order: geometrical considerations|
+|02 | Isoclines|
+|03 | Separable equations|
+|04 | Equations reducible separable form|
+|05 | Exact differential equations|
+|06 | Integrating factors|
+|07 | Linear first-order differential equations|
+|08 | Variation parameters. ordinary linear differential equations; homogeneous linear equations the second order|
+|09 | Homogeneous second-order equations with constant coefficients|
+|10 | General solution|
+|11 | Real roots|
+|12 | Complex roots|
+|13 | Double root the characteristic equation|
+|14 | Differential operators|
+|15 | Cauchy equation|
+|16 | Homogeneous linear equations arbitrary order|
+|17 | Homogeneous linear equations arbitrary order with constant coefficients|
+|18 | Non-homogeneous linear equations. modelling electrical circuits. systems differential equations. series solutions differential equations. partial differential equations: method separation variables|
+|19 | Wave|
+|20 | Heat laplace equations and their solutions fourier series method.|
+
+## Resources:
+
+ - Advanced Engineering Mathematics Michael,  G., Prentice Hall Publishers.
+- Advanced Engineering Mathematics, 7th edition, Erwin, John Wiley &sons Inc.
+- First Course Differential Equation Zill. Prindle. Weber. Schmidt..brooks/cole Publishing.
+- Differential Equations With Boundary-value Problems, Dennis. Zill, Michael, Cullen. Brooks/cole Publishing.
+- Elementary Differential Equations With Applications Edwards. David,e. Penney,Prentice Hall.
+
 
 
